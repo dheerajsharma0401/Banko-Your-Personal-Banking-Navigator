@@ -8,13 +8,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/issues)
-[![Forks](https://img.shields.io/github/forks/dheerajsharma0401/Chest-Xrays-Pneumonia-Predictionsvg?logo=github)](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/network/members)
-[![Stargazers](https://img.shields.io/github/stars/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction.svg?logo=github)](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/stargazers)
-[![Issues](https://img.shields.io/github/issues/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction.svg?logo=github)](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/issues)
+[![Forks](https://img.shields.io/github/forks/dheerajsharma0401/Banko-Your-Personal-Banking-Navigator.svg?logo=github)](https://github.com/dheerajsharma0401/Banko-Your-Personal-Banking-Navigator/network/members)
+[![Stargazers](https://img.shields.io/github/stars/dheerajsharma0401/Banko-Your-Personal-Banking-Navigator.svg?logo=github)](https://github.com/dheerajsharma0401/Banko-Your-Personal-Banking-Navigator/stargazers)
+[![Issues](https://img.shields.io/github/issues/dheerajsharma0401/Banko-Your-Personal-Banking-Navigator.svg?logo=github)](https://github.com/dheerajsharma0401/Banko-Your-Personal-Banking-Navigator/issues)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/dheeraj-sharma-142bb0190/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p align="center"><img src="https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/logo.png" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/dheerajsharma0401/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/logo.png" width="700" height="400"></p>
 <p align="center"><b>Banko-Your Personal Banking Navigator</b></p>
 
 ## :innocent: Motivation
@@ -32,12 +32,12 @@ So, we came up with an idea in which we ask the person the nearby famous landmar
 
 ## ⚠: FlowChart
 
-<p align="center"><img src="https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/ClientFlow.png" width="781" height="794"></p>
+<p align="center"><img src="https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/ClientFlow.png" width="781" height="794"></p>
 
 <p align="center"><b>ClientSide Flowchart</b></p>
 
 
-<p align="center"><img src="https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/ServerFlow.png" width="724" height="743"></p>
+<p align="center"><img src="https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/ServerFlow.png" width="724" height="743"></p>
 
 <p align="center"><b>ServerSide Flowchart</b></p>
 
@@ -65,18 +65,18 @@ STEP 9:END<br>
 
 ## Client Side
 #### Client Window
-![](https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/Client1.png)<br />
-![](https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/Client2.png)<br />
-![](https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/Client3.png)<br />
-![](https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/Client4.png)<br />
-![](https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/Client5.png)<br />
+![](https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Client1.png)<br />
+![](https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Client2.png)<br />
+![](https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Client3.png)<br />
+![](https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Client4.png)<br />
+![](https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Client5.png)<br />
 
 ## Server Side
 #### Server Window
-![](https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/Server1.png)<br />
-![](https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/Server2.png)<br />
-![](https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/Server3.png)<br />
-![](https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/Server4.png)<br />
+![](https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Server1.png)<br />
+![](https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Server2.png)<br />
+![](https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Server3.png)<br />
+![](https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Server4.png)<br />
 
 
 #### The above snapshots are consecutive activity at client and server side. 
@@ -89,20 +89,3 @@ Feel free to mail me for any doubts/query
 
 ## :heart: Owner
 Made with :heart:&nbsp;  by [Dheeraj Sharma](https://github.com/dheerajsharma0401)
-
-
-## :eyes: Code of Conduct
-
-You can find our Code of Conduct [here](/CODE_OF_CONDUCT.md).
-
-
-## :eyes: License
-MIT © [Dheeraj Sharma](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/blob/main/LICENSE)
-
-
-
-
-
-
-
-
