@@ -32,12 +32,12 @@ So, we came up with an idea in which we ask the person the nearby famous landmar
 
 ## ⚠: FlowChart
 
-<p align="center"><img src="https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/ClientFlow.png" width="781" height="794"></p>
+<p align="center"><img src="https://github.com/dheerajsharma0401/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/ClientFlow.png" width="781" height="794"></p>
 
 <p align="center"><b>ClientSide Flowchart</b></p>
 
 
-<p align="center"><img src="https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/ServerFlow.png" width="724" height="743"></p>
+<p align="center"><img src="https://github.com/dheerajsharma0401/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/ServerFlow.png" width="724" height="743"></p>
 
 <p align="center"><b>ServerSide Flowchart</b></p>
 
@@ -65,18 +65,18 @@ STEP 9:END<br>
 
 ## Client Side
 #### Client Window
-![](https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Client1.png)<br />
-![](https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Client2.png)<br />
-![](https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Client3.png)<br />
-![](https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Client4.png)<br />
-![](https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Client5.png)<br />
+![](https://github.com/dheerajsharma0401/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Client1.png)<br />
+![](https://github.com/dheerajsharma0401/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Client2.png)<br />
+![](https://github.com/dheerajsharma0401/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Client3.png)<br />
+![](https://github.com/dheerajsharma0401/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Client4.png)<br />
+![](https://github.com/dheerajsharma0401/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Client5.png)<br />
 
 ## Server Side
 #### Server Window
-![](https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Server1.png)<br />
-![](https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Server2.png)<br />
-![](https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Server3.png)<br />
-![](https://github.com/dheerajsharma4101/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Server4.png)<br />
+![](https://github.com/dheerajsharma0401/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Server1.png)<br />
+![](https://github.com/dheerajsharma0401/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Server2.png)<br />
+![](https://github.com/dheerajsharma0401/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Server3.png)<br />
+![](https://github.com/dheerajsharma0401/Banko-Your-Personal-Banking-Navigator/blob/main/Outputs/Server4.png)<br />
 
 
 #### The above snapshots are consecutive activity at client and server side. 
